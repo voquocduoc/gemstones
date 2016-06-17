@@ -1,0 +1,9 @@
+D:\C++ Games Projects\Gemstones\Gemstones\bin\Release\Gemstones.exe
+D:\C++ Games Projects\Gemstones\Gemstones\bin\Release\Gemstones.pdb
+D:\C++ Games Projects\Gemstones\Gemstones\obj\x86\Release\Gemstones.Form1.resources
+D:\C++ Games Projects\Gemstones\Gemstones\obj\x86\Release\Gemstones.Properties.Resources.resources
+D:\C++ Games Projects\Gemstones\Gemstones\obj\x86\Release\Gemstones.csproj.GenerateResource.Cache
+D:\C++ Games Projects\Gemstones\Gemstones\obj\x86\Release\Gemstones.exe
+D:\C++ Games Projects\Gemstones\Gemstones\obj\x86\Release\Gemstones.pdb
+E:\Lap Trinh\C Sharp\De Tai\Hoan Chinh\Gemstones\Gemstones\obj\x86\Release\Gemstones.exe
+E:\Lap Trinh\C Sharp\De Tai\Hoan Chinh\Gemstones\Gemstones\obj\x86\Release\Gemstones.pdb
